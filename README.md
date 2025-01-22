@@ -4,8 +4,8 @@
 Soy David, estudiante de ingeniería informática y un apasionado por la informática y la robótica. 🚀
 
 ## 🛠 Tecnologías y Herramientas
-- 🖥️ **Frontend**: HTML, CSS, JavaScript, React
-- ⚙️ **Backend**: Java, C#, Python, PHP
+- 🖥️ **Frontend**: HTML, CSS, JavaScript, ...
+- ⚙️ **Backend**: Java, C#, Python, PHP, ...
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
