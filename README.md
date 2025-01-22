@@ -6,7 +6,8 @@ Soy David, estudiante de ingeniería informática y un apasionado por la inform�
 ## 🛠 Tecnologías y Herramientas
 - 🖥️ **Frontend**: HTML, CSS, JavaScript, React
 - ⚙️ **Backend**: Java, C#, Python, PHP
-- ☁️ **DevOps**: Docker, Kubernetes
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -19,8 +20,12 @@ Soy David, estudiante de ingeniería informática y un apasionado por la inform�
 - **In progress...**
 
 ## 🌐 Encuéntrame en
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/David_27CG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-covian-gomez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/david_cg_27/)
+<!--
 - [Instagram](https://www.instagram.com/david_cg_27/)
-- [Twitter](https://x.com/David_27CG) ![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)
-- [LinkedIn](www.linkedin.com/in/david-covian-gomez) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)
-
+- [Twitter](https://x.com/David_27CG)
+- [LinkedIn](www.linkedin.com/in/david-covian-gomez)
+-->
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blue)
