@@ -17,7 +17,6 @@ Soy David, estudiante de ingeniería informática y un apasionado por la inform�
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## 🌟 Proyectos destacados
-- CyclomaticComplexityAnalizer (Java)
 - **In progress...**
 
 ## 🌐 Encuéntrame en
